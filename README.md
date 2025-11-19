@@ -1,2 +1,4 @@
 # Primer-Reposotorio
-Primer repositorio de practica 
+Este es mi Primer repositorio de practica 
+Camila Monserrat Ochoa Gomez
+3°B Programacion turno matutino
